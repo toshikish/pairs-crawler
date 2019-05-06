@@ -1,0 +1,12 @@
+{
+    "Facebook": {
+        "email": "",
+        "password": ""
+    },
+    "Pairs": {
+        "searchCriteria": {
+            "lower": 20,
+            "higher": 30
+        }
+    }
+}
